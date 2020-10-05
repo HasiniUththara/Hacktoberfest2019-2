@@ -1,11 +1,11 @@
 ﻿
-<p align="center" style="background-color: #57283e;"><img src="https://imgur.com/n8ooeHc.png"></p>
+<p align="center" style="background-color: #57283e;"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--6XMphmNR--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/m0vn0mhsn945jxz9121p.png"></p>
 
-# Hacktoberfest 2019
+# Hacktoberfest 2020
 ## Why did you become a developer?
 
 
-#### Hello! Happy Hacktoberfest ~~2018~~ 2019!
+#### Hello! Happy Hacktoberfest ~~2019~~ 2020!
 #### In the spirit of the event, and to help new developers become familiar with the Fork / Pull Request flow, i've created this Repo as an easy way to try it out!
 
 ##### 2019 Edit:
